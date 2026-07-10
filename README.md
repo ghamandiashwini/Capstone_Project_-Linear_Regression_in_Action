@@ -93,8 +93,8 @@ The project includes:
 ```
 Linear_Regression_in_Action/
 │
-├── Linear_Regression.ipynb
-├── dataset.csv
+├── Linear_Regression_Ames.ipynb
+├── ames.csv
 ├── README.md
 ```
 
@@ -105,7 +105,7 @@ Linear_Regression_in_Action/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Linear_Regression_in_Action.git
+git clone https://github.com/ghamandiashwini/Capstone_Project_-Linear_Regression_in_Action.git
 ```
 
 2. Navigate to the project directory
